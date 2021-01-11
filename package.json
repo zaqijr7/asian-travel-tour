@@ -1,0 +1,19 @@
+{
+  "name": "asian-travel-tour",
+  "version": "1.0.0",
+  "description": "this is an application ticket booking airplane",
+  "main": "index.php",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zaqijr7/asian-travel-tour.git"
+  },
+  "author": "muhammad zaqi al quraisyi <zaqijr7@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zaqijr7/asian-travel-tour/issues"
+  },
+  "homepage": "https://github.com/zaqijr7/asian-travel-tour#readme"
+}
